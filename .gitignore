@@ -4,4 +4,4 @@ test.sh
 nvim
 
 spell/
-lazy-lock.json
+#lazy-lock.json # Commented out for personal fork per ./README.md
